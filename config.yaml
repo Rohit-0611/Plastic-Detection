@@ -1,0 +1,9 @@
+path: "F:/Rohit/LAB/3rd_year/Machine_learning/Yolov5"
+train: "F:/Rohit/LAB/3rd_year/Machine_learning/Yolov5/images/train"
+val: "F:/Rohit/LAB/3rd_year/Machine_learning/Yolov5/images/val"
+
+names:
+  0: Plastic
+
+
+
