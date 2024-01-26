@@ -14,14 +14,10 @@ This project utilizes YOLOv8 for object detection, with a focus on fine-tuning t
 ## Getting Started
 
 ### Prerequisites
-- Python (version)
-- YOLOv8 (installation steps)
-- Azure Storage Account (setup details)
-- Flask (installation steps)
-
-### Installation
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
-2. Install required dependencies: `pip install -r requirements.txt`
+- Python 
+- YOLOv8
+- Azure Storage Account 
+- Flask
 
 ### Usage
 1. Run the Flask app: `python app.py`
