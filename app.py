@@ -9,7 +9,7 @@ from ultralytics import YOLO
 app = Flask(__name__)
 
 # Your Azure Blob Storage connection string
-CONNECTION_STRING = "DefaultEndpointsProtocol=https;AccountName=curaai;AccountKey=y1vAiIqvVL4m6LdjGoJ+FKhSG/iFn8qrA8foEXNlOxzcbKfTTvH7RIFGPFQY58565LrZtCmLJWhp+ASt2GQ8ng==;EndpointSuffix=core.windows.net"
+CONNECTION_STRING = ""
 CONTAINER_NAME = "images1"  # Name of the container for image uploads
 PROCESSED_CONTAINER_NAME = "processedimage"  # Name of the container for processed images
 
