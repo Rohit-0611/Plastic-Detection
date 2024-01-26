@@ -10,6 +10,7 @@ This project utilizes YOLOv8 for object detection, with a focus on fine-tuning t
 - Python Flask API for seamless integration
 - Live demo link: [Live Demo](https://rohitsk2003.pythonanywhere.com/)
 - Video Summary: [YouTube Video](https://youtu.be/g9UyXD49NL4)
+- PPT Overview : [Presentation](https://docs.google.com/presentation/d/1MTRoteVsqFL9-5a4Ek9YBKhy0bRTMWPp2KynEADUenU/edit#slide=id.g2b3ad50d322_1_157)
 
 ## Getting Started
 
